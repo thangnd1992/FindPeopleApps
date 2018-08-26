@@ -1,0 +1,11 @@
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\bin\Debug\netcoreapp2.1\FindPeoplesApp.deps.json
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\bin\Debug\netcoreapp2.1\FindPeoplesApp.runtimeconfig.json
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\bin\Debug\netcoreapp2.1\FindPeoplesApp.runtimeconfig.dev.json
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\bin\Debug\netcoreapp2.1\FindPeoplesApp.dll
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\bin\Debug\netcoreapp2.1\FindPeoplesApp.pdb
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\obj\Debug\netcoreapp2.1\FindPeoplesApp.csprojAssemblyReference.cache
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\obj\Debug\netcoreapp2.1\FindPeoplesApp.csproj.CoreCompileInputs.cache
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\obj\Debug\netcoreapp2.1\FindPeoplesApp.AssemblyInfoInputs.cache
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\obj\Debug\netcoreapp2.1\FindPeoplesApp.AssemblyInfo.cs
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\obj\Debug\netcoreapp2.1\FindPeoplesApp.dll
+C:\Users\Rua Min\Desktop\FindPeopleApps\FindPeoplesApp\FindPeoplesApp\obj\Debug\netcoreapp2.1\FindPeoplesApp.pdb
